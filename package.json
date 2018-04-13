@@ -1,7 +1,7 @@
 {
-  "name": "bitcore-lib",
+  "name": "bitcore-lib-kore|",
   "version": "0.15.0",
-  "description": "A pure and powerful JavaScript Bitcoin library.",
+  "description": "A pure and powerful JavaScript Kore library.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "build": "gulp"
   },
   "keywords": [
-    "bitcoin",
+    "kore",
     "transaction",
     "address",
     "p2p",
@@ -28,7 +28,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore-lib.git"
+    "url": "https://github.com/Plorark/bitcore-lib-kore.git"
   },
   "browser": {
     "request": "browser-request"
